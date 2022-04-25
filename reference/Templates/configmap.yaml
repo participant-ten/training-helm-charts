@@ -1,6 +1,0 @@
-apiVersion: v1
-data:
-  helloworld: your personal message here...
-kind: ConfigMap
-metadata:
-  name: hello-world
